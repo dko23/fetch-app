@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Short Stack', cursive;
+}
+
+ .row{
+margin-bottom: 50px;
+} 
+
+.pic{
+  border-radius: 20px;
+}
